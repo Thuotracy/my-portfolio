@@ -24,6 +24,7 @@ body{
     height: 180px;
     width: 180px;
     object-fit: cover;
+    border-radius: 50%;
 }
 
 .hero--content{
