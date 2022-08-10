@@ -58,11 +58,14 @@ body{
 }
 
 .projects--wrapper{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 2em;
+    margin-top: 2em;
 }
 
 .project--column{
-    width: 300px;
+    
 }
 
 .project-thumbnail{
@@ -72,4 +75,5 @@ body{
 
 .project--body{
     background-color: white;
+    padding:1em;
 }
