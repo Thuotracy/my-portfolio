@@ -52,3 +52,16 @@
     font-size: 20px;
     text-align: center;
 }
+
+.project--wrapper{
+    display: flex;
+}
+
+.project--column{
+    width: 300px;
+}
+
+.project-thumbnail{
+    width: 100%;
+
+}
