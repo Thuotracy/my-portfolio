@@ -62,10 +62,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr; 
     gap: 2em;
     margin-top: 2em;
-}
-
-.project--column{
-    
+    margin-bottom: 2em;
 }
 
 .project-thumbnail{
