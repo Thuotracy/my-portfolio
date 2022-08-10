@@ -11,7 +11,8 @@
 
 .hero{
     background-color: #1F2428;
-    height: 80vh;
+    height: 70vh;
+    color: white;
 
 }
 
@@ -34,8 +35,20 @@
     justify-content: center;
     align-items: center;
     gap: 1.5em;
+    margin-bottom: 1.5em;
 }
 
 .intro--name{
     font-size: 65px;
+    letter-spacing: 0.1em;
+}
+
+.description{
+    font-size: 45px;
+    text-align: center;
+}
+
+.slogan{
+    font-size: 20px;
+    text-align: center;
 }
