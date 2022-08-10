@@ -75,3 +75,8 @@ body{
     background-color: white;
     padding:1em;
 }
+
+.skills--container{
+    width: 600px;
+    margin: 0 auto;
+}
