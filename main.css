@@ -2,6 +2,10 @@ body{
     background-color: #E5E5E5;
 }
 
+.section--1{
+    background-color: white;
+}
+
 .navigation-bar{
     background-color: #1F2428;
     height: 50px;
@@ -79,4 +83,9 @@ body{
 .skills--container{
     width: 600px;
     margin: 0 auto;
+}
+
+.skill--wrapper{
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
