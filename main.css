@@ -102,9 +102,9 @@ body{
 .skill--tag{
     background-color: #C4E7F2;
     width: fit-content;
-    padding: 5px;
-    line-height: 0;
-    
+    padding: 3px 20px;
+    border-radius: 20px;
+
 }
 
 
