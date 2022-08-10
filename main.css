@@ -19,6 +19,7 @@ body{
     height: 50px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .nav-link{
@@ -27,7 +28,7 @@ body{
 
 .hero{
     background-color: #1F2428;
-    height: 70vh;
+    min-height: 70vh;
     color: white;
 
 }
@@ -96,4 +97,24 @@ body{
 .skill--wrapper{
     margin-top: 2em;
     margin-bottom: 2em;
+}
+
+.skill--tag{
+    background-color: #C4E7F2;
+    width: fit-content;
+    padding: 5px;
+    line-height: 0;
+    
+}
+
+
+@media (max-width:900px){
+    .hero--content--intro{
+        flex-direction: column;
+    }
+
+    .projects--wrapper{
+        grid-template-columns: 1fr; 
+    }
+    
 }
