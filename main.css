@@ -92,6 +92,7 @@ body{
 .skills--container{
     width: 600px;
     margin: 0 auto;
+    padding: 1em;
 }
 
 .skill--wrapper{
