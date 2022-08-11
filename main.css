@@ -109,7 +109,6 @@ body{
     width: fit-content;
     padding: 3px 20px;
     border-radius: 20px;
-
 }
 
 
@@ -121,13 +120,22 @@ body{
     .projects--wrapper{
         grid-template-columns: 1fr; 
     }
-    
 }
+
+
+@media (max-width:800px){
+    .hero--content{
+        width: 100%;
+    }
+}
+
 
 
 @media (max-width:600px){
     .skills--container{
         width: 100%;
     }
-    
 }
+
+
+
