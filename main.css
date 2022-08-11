@@ -99,6 +99,11 @@ body{
     margin-bottom: 2em;
 }
 
+.other--skills--wrapper{
+    display: flex;
+    gap: 1em;
+}
+
 .skill--tag{
     background-color: #C4E7F2;
     width: fit-content;
