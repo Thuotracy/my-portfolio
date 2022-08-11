@@ -28,7 +28,7 @@ body{
 
 .hero{
     background-color: #1F2428;
-    min-height: 70vh;
+    min-height: 80vh;
     color: white;
 
 }
@@ -69,6 +69,22 @@ body{
 .slogan{
     font-size: 20px;
     text-align: center;
+}
+
+#settings-note{
+    text-align: center;
+    margin-top: 1em;
+}
+
+.theme-dot{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: white;
+    margin: 5px;
+    
+
 }
 
 .projects--wrapper{
