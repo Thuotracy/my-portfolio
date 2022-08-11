@@ -3,13 +3,13 @@ body{
 }
 
 .section--1{
-    background-color: #E5E5E5;
+    background-color: white;
     padding-top: 2em;
     padding-bottom: 2em;
 }
 
 .section--2{
-    background-color: white;
+    background-color: #E5E5E5;
     padding-top: 2em;
     padding-bottom: 2em;
 }
