@@ -86,6 +86,26 @@ body{
     border: 2px solid black;
 }
 
+.theme--dot:hover{
+    border-width: 5px;
+}
+
+#light-mode{
+    background-color: white;
+}
+
+#blue-mode{
+    background-color: #192734;
+}
+
+#green-mode{
+    background-color: #;
+}
+
+#purple-mode{
+    background-color: white;
+}
+
 #theme--options--wrapper{
     display: flex;
     justify-content: center;
