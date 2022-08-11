@@ -71,19 +71,24 @@ body{
     text-align: center;
 }
 
-#settings-note{
+#settings--note{
     text-align: center;
     margin-top: 1em;
 }
 
-.theme-dot{
+.theme--dot{
     height: 30px;
     width: 30px;
     border-radius: 50%;
     cursor: pointer;
     background-color: white;
     margin: 5px;
-    
+    border: 2px solid black;
+}
+
+#theme--options--wrapper{
+    display: flex;
+    justify-content: center;
 
 }
 
