@@ -123,3 +123,11 @@ body{
     }
     
 }
+
+
+@media (max-width:600px){
+    .skills--container{
+        width: 100%;
+    }
+    
+}
