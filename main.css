@@ -119,10 +119,12 @@ body{
     }
 
     .projects--wrapper{
-        grid-template-columns: 1fr; 
+
+        grid-template-columns: 1fr ;
+
+        
     }
 }
-
 
 @media (max-width:800px){
     .hero--content{
@@ -132,9 +134,23 @@ body{
 
 
 
+
 @media (max-width:600px){
+    
     .skills--container{
         width: 100%;
+    }
+
+   
+}
+
+
+@media (max-width:400px){
+
+
+    .skill--wrapper{
+        flex-flow: column;
+        
     }
 }
 
